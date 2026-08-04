@@ -1,0 +1,4 @@
+interface:
+  display_name: "Boundary-Driven Development"
+  short_description: "Design, plan, implement, and review by boundaries"
+  default_prompt: "Use $boundary-driven-development to define boundaries, contracts, risks, and validation before changing this repository."
